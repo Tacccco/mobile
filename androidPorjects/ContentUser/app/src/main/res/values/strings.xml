@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContentUser</string>
+    <string name="pass">Password</string>
+    <string name="uname">User Name</string>
+    <string name="user_info">user_info</string>
+    <string name="login">Login</string>
+    <string name="sign">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="age">Age</string>
+    <string name="success">Successfully changed</string>
+    <string name="success_info">Successfully saved</string>
+    <string name="success_add">Successfully added</string>
+    <string name="empty">Some fields are empty</string>
+    <string name="fail">failed</string>
+    <string name="ok">ok</string>
+</resources>
